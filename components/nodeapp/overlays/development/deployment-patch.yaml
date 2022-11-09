@@ -16,7 +16,7 @@ spec:
       - env:
         - name: env
           value: development
-        image: quay.io/karthik_jk/nodeapp@sha256:6c7b007f7fb9d500e306fb8e4ef416cf0a46d7da46b54492507e5047405d3544
+        image: quay.io/karthik_jk/nodeapp@sha256:5a7aa6f50e85c97b656a057bfb64510a65a2f2fddcc1b010e3e1b937dc2ba9ae
         name: container-image
         resources: {}
 status: {}
